@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Роман Данилов — QA Engineer</h1>
+<h3 align="center">Студент по специальности AQA Engineer</h3>
 
 <!--
 **Rom-G/Rom-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
